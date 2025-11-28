@@ -10,7 +10,7 @@ These tutorials follow a progressive sequence to ensure an easy and intuitive le
 
 [3-Relationship between Molecular Descriptors and Activity](https://colab.research.google.com/github/SafiehLadani/Introductory-Cheminformatics-Tutorials/blob/main/03_Descriptor_Activity_Relation.ipynb)
 
-[4-Molecular Similarity Search](https://colab.research.google.com/github/sofia-sunny/Introductory_Tutorials/blob/main/04_Molecular_Similarity.ipynb)
+[4-Molecular Similarity Search](https://colab.research.google.com/github/SafiehLadani/Introductory-Cheminformatics-Tutorials/blob/main/04_Molecular_Similarity.ipynb)
 
 
 [5-Pubchem and Data Retrieval](https://colab.research.google.com/github/sofia-sunny/Introductory_Tutorials/blob/main/05_Pubchem_Data_Retrieval.ipynb)
