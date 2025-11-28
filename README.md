@@ -16,7 +16,7 @@ These tutorials follow a progressive sequence to ensure an easy and intuitive le
 [5-Pubchem and Data Retrieval](https://colab.research.google.com/github/SafiehLadani/Introductory-Cheminformatics-Tutorials/blob/main/05_Pubchem_Data_Retrieval.ipynb)
 
 
-[6-Similarity Search with Pubchempy](https://colab.research.google.com/github/SafiehLadani/Introductory-Cheminformatics-Tutorials/blob/main/06_Similarity_Search_with_Pubchempy.ipynb)
+[6-Similarity Search with Pubchempy](https://colab.research.google.com/github/SafiehLadani/Introductory-Cheminformatics-Tutorials/blob/main/06_Pubchempy_for_Similarity_Search.ipynb)
 
 
 [7-SMART and Substructure Search](https://colab.research.google.com/github/SafiehLadani/Introductory-Cheminformatics-Tutorials/blob/main/07_SMART_substructure_search.ipynb)
