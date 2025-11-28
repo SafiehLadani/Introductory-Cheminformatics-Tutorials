@@ -13,16 +13,16 @@ These tutorials follow a progressive sequence to ensure an easy and intuitive le
 [4-Molecular Similarity Search](https://colab.research.google.com/github/SafiehLadani/Introductory-Cheminformatics-Tutorials/blob/main/04_Molecular_Similarity.ipynb)
 
 
-[5-Pubchem and Data Retrieval](https://colab.research.google.com/github/sofia-sunny/Introductory_Tutorials/blob/main/05_Pubchem_Data_Retrieval.ipynb)
+[5-Pubchem and Data Retrieval](https://colab.research.google.com/github/SafiehLadani/Introductory-Cheminformatics-Tutorials/blob/main/05_Pubchem_Data_Retrieval.ipynb)
 
 
-[6-Similarity Search with Pubchempy](https://colab.research.google.com/github/sofia-sunny/Introductory_Tutorials/blob/main/06_Similarity_Search_with_Pubchempy.ipynb)
+[6-Similarity Search with Pubchempy](https://colab.research.google.com/github/SafiehLadani/Introductory-Cheminformatics-Tutorials/blob/main/06_Similarity_Search_with_Pubchempy.ipynb)
 
 
-[7-SMART and Substructure Search](https://colab.research.google.com/github/sofia-sunny/Short_Introductory_Tutorials/blob/main/07_SMART_substructure_search.ipynb)
+[7-SMART and Substructure Search](https://colab.research.google.com/github/SafiehLadani/Introductory-Cheminformatics-Tutorials/blob/main/07_SMART_substructure_search.ipynb)
 
-[8-Simple QSAR](https://colab.research.google.com/github/sofia-sunny/Short_Introductory_Tutorials/blob/main/08_Simple_QSAR.ipynb)
+[8-Simple QSAR](https://colab.research.google.com/github/SafiehLadani/Introductory-Cheminformatics-Tutorials/blob/main/08_Simple_QSAR.ipynb)
 
-[9-Drug Type Classification](https://colab.research.google.com/github/sofia-sunny/Short_Introductory_Tutorials/blob/main/09_Drug_Type_Classification.ipynb)
+[9-Drug Type Classification](https://colab.research.google.com/github/SafiehLadani/Introductory-Cheminformatics-Tutorials/blob/main/09_Drug_Type_Classification.ipynb)
 
-[10-Extracting ChEMBL Data](https://colab.research.google.com/github/sofia-sunny/Introductory_Tutorials/blob/main/10_Extracting__ChEMBL_Data.ipynb)
+[10-Extracting ChEMBL Data](https://colab.research.google.com/github/SafiehLadani/Introductory-Cheminformatics-Tutorials/blob/main/10_Extracting__ChEMBL_Data.ipynb)
