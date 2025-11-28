@@ -19,7 +19,7 @@ These tutorials follow a progressive sequence to ensure an easy and intuitive le
 [6-Similarity Search with Pubchempy](https://colab.research.google.com/github/SafiehLadani/Introductory-Cheminformatics-Tutorials/blob/main/06_Pubchempy_for_Similarity_Search.ipynb)
 
 
-[7-SMART and Substructure Search](https://colab.research.google.com/github/SafiehLadani/Introductory-Cheminformatics-Tutorials/blob/main/07_SMART_substructure_search.ipynb)
+[7-SMART and Substructure Search](https://colab.research.google.com/github/SafiehLadani/Introductory-Cheminformatics-Tutorials/blob/main/07_substructure_search.ipynb)
 
 [8-Simple QSAR](https://colab.research.google.com/github/SafiehLadani/Introductory-Cheminformatics-Tutorials/blob/main/08_Simple_QSAR.ipynb)
 
